@@ -1,6 +1,6 @@
-site_name: CS Advanced Topics
+site_name: The Entanglement Project
 site_url: https://yourdomain.com
-site_description: Advanced Computer Science Educational Platform
+site_description: Computer Science Educational Platform
 
 theme:
   name: material

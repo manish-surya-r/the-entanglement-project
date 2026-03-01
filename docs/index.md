@@ -21,5 +21,5 @@
 <div class="topic-card">
   <h3> my works </h3>
   <p> This section exclusively consists of my works. </p>
-  <a href = "my-works"> Start Learning →</a>
+  <a href = "my-works/"> Start Learning →</a>
 </div>

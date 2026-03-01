@@ -11,12 +11,6 @@
   <p>Learn OOP, SOLID principles, and design patterns.</p>
   <a href="oop-python/">Start Learning →</a>
 </div>
-
-<div class="topic-card">
-  <h3> my works </h3>
-  <p> This section exclusively consists of my works. </p>
-  <a href = "my-works"> Start Learning →</a>
-</div>
   
 <div class="topic-card">
   <h3>⚙️ Object-Oriented Design in C++</h3>
@@ -24,6 +18,8 @@
   <a href="oop-cpp/">Start Learning →</a>
 </div>
 
-</div>
-
+<div class="topic-card">
+  <h3> my works </h3>
+  <p> This section exclusively consists of my works. </p>
+  <a href = "my-works"> Start Learning →</a>
 </div>

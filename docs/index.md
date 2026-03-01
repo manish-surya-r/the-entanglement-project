@@ -1,6 +1,6 @@
 <div id="homepage">
 
-<h1>The Entablement Project <sub>(still in development Phase)</sub></h1>
+<h1>The Entablement Project <small><i>(still in development Phase)</i></small></h1>
 <em>By Manish Sri Sai Surya Routhu</em>
 <p>This platform provides a structured environment for learning computer science concepts, combining theoretical foundations with practical applications to foster deep understanding and problem-solving skills.</p>
 
